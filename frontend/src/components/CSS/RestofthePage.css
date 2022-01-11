@@ -1,0 +1,15 @@
+#aboutus {
+  margin-bottom: 50px;
+}
+
+#aboutus .item-content {
+  background-color: #f3f3f3;
+  border-radius: 5px;
+  border: solid #f2f2f2 1px;
+}
+
+#aboutus .item-content h5,
+#aboutus .item-content p,
+#aboutus .item-content h6 {
+  text-align: center;
+}

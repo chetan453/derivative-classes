@@ -1,0 +1,12 @@
+.navbar::before {
+  content: "";
+  overflow: hidden;
+  position: fixed;
+}
+
+.fixed-top {
+  z-index: 500;
+}
+span.nav-link {
+  cursor: pointer;
+}

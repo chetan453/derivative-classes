@@ -1,0 +1,40 @@
+div#course-details {
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  top: 56px;
+}
+
+table {
+  margin: 50px 20px;
+}
+
+tr {
+  border: solid black 1px;
+}
+
+tr th {
+  background-color: #e0d6d6;
+  border: solid black 1px;
+  font-size: 1.9rem;
+  padding: 5px 10px;
+}
+
+tr td {
+  border: solid black 1px;
+  font-size: 1.3rem;
+  padding: 5px 10px;
+}
+
+table span {
+  color: green;
+}
+
+div#course-details h4,
+div#course-details h1 {
+  padding: 10px 20px;
+}
+
+div#course-details button {
+  margin: 10px 20px;
+}
